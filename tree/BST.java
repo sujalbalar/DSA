@@ -36,5 +36,4 @@ public class BST {
             insert(HEAD, arr[index++]);
         }
     }
-
 }

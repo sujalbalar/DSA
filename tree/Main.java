@@ -1,4 +1,4 @@
-import tree.*;
+package tree;
 import static tree.traversal.Preorder.preorder;
 import static tree.traversal.Postorder.postorder;
 import static tree.traversal.Inorder.inorder;
