@@ -32,7 +32,7 @@ class LList {
     public static void deleteFirst(){
         if(Head == null)
             return;
-        
+
         Head = Head.next;
     }
 
