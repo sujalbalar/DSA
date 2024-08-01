@@ -33,9 +33,7 @@ class LList {
         if(Head == null)
             return;
         
-        Node tmp = Head;
         Head = Head.next;
-        tmp = null;
     }
 
     public static void deleteLast(){
